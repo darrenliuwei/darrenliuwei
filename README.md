@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **darrenliuwei/darrenliuwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there, I'm [darrenliuwei](https://github.com/darrenliuwei) 👋
+
+<a href="https://github.com/darrenliuwei">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darrenliuwei&show_icons=true&theme=radical" alt="darrenliuwei's github stats" />
+</a>
+<a href="https://github.com/darrenliuwei">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrenliuwei&layout=compact&theme=radical" />
+</a>
