@@ -1,23 +1,14 @@
-<!--
-**darrenliuwei/darrenliuwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😄️ My name is Darren Liu, thanks for your visit.
 
-### Hi there, I'm [darrenliuwei](https://github.com/darrenliuwei) 👋
+🙏🏻 I am a normal developer, main language used is JavaScript/TypeScript.
 
-<a href="https://github.com/darrenliuwei">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darrenliuwei&show_icons=true&theme=radical" alt="darrenliuwei's github stats" />
-</a>
-<a href="https://github.com/darrenliuwei">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrenliuwei&layout=compact&theme=radical" />
-</a>
+😩️ My programming level is very average, but I want to be a person who is good at programming like you. I am working hard all the time.
+
+👀️ It's my [personal homepage](https://sphard.com).
+
+[![hellodk's github stats](https://github-readme-stats.vercel.app/api?username=darrenliuwei)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darrenliuwei)](https://github.com/anuraghazra/github-readme-stats)
