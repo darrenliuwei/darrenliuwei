@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-😄️ My name is Darren Liu, thanks for your visit.
+😄️ My name is Liu Wei, and my English name is Darren, thanks for your visit.
 
 🙏🏻 I am a normal developer, main language used is JavaScript/TypeScript.
 
