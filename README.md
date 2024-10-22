@@ -14,6 +14,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darrenliuwei)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
+```txt
+SQL   20 mins         █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <h3>Things I code with</h3>
