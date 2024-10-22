@@ -15,8 +15,18 @@
 
 <!--START_SECTION:waka-->
 
-```txt
-SQL   20 mins         █████████████████████████   100.00 %
+```rust
+From: 22 June 2021 - To: 22 October 2024
+
+Total Time: 729 hrs 31 mins
+
+JSX                        295 hrs 30 mins >>>>>>>>>>---------------   39.98 %
+JavaScript                 259 hrs 36 mins >>>>>>>>>----------------   35.13 %
+TypeScript                 55 hrs 12 mins  >>-----------------------   07.47 %
+Text                       53 hrs 3 mins   >>-----------------------   07.18 %
+LESS                       12 hrs 21 mins  -------------------------   01.67 %
+Markdown                   11 hrs 46 mins  -------------------------   01.59 %
+Other                      9 hrs 33 mins   -------------------------   01.29 %
 ```
 
 <!--END_SECTION:waka-->
