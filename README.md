@@ -16,14 +16,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 22 June 2021 - To: 20 December 2024
+From: 22 June 2021 - To: 21 December 2024
 
-Total Time: 748 hrs 32 mins
+Total Time: 748 hrs 57 mins
 
-JSX                        295 hrs 30 mins >>>>>>>>>>---------------   38.97 %
-JavaScript                 265 hrs 39 mins >>>>>>>>>----------------   35.03 %
-TypeScript                 67 hrs 37 mins  >>-----------------------   08.92 %
-Text                       53 hrs 3 mins   >>-----------------------   07.00 %
+JSX                        295 hrs 30 mins >>>>>>>>>>---------------   38.95 %
+JavaScript                 265 hrs 39 mins >>>>>>>>>----------------   35.01 %
+TypeScript                 68 hrs 2 mins   >>-----------------------   08.97 %
+Text                       53 hrs 3 mins   >>-----------------------   06.99 %
 LESS                       12 hrs 21 mins  -------------------------   01.63 %
 Markdown                   11 hrs 48 mins  -------------------------   01.56 %
 Other                      9 hrs 45 mins   -------------------------   01.29 %
