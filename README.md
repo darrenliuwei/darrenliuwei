@@ -65,4 +65,4 @@ Other                      10 hrs 22 mins  -------------------------   01.24 %
 <img src="banner.png" width="100%" />
 </a>
 
-![菲律宾外教一对一网课](./online_class.jpg)
+![菲律宾外教一对一网课](./online_class.png)
