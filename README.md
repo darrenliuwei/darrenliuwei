@@ -53,8 +53,8 @@ Other                      10 hrs 22 mins  -------------------------   01.24 %
   <a href="https://github.com/darrenliuwei" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
-  <a href="https://twitter.com/darrenliuwei" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://X.com/darrenliuwei" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/sphard" target="_blank">
     <img alt="Youtube" src="https://img.shields.io/badge/youtube-%23ff5722.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
