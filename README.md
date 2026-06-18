@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 22 June 2021 - To: 15 June 2026
+From: 22 June 2021 - To: 16 June 2026
 
 Total Time: 835 hrs 2 mins
 
