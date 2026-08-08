@@ -8,10 +8,6 @@
 
 👀️ It's my [personal homepage](https://darrenliuwei.com).
 
-[![hellodk's github stats](https://github-readme-stats.vercel.app/api?username=darrenliuwei)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darrenliuwei)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--START_SECTION:waka-->
 
 ```rust
