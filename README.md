@@ -69,3 +69,5 @@ Other                      10 hrs 58 mins        -------------------------   01.
 <a href="https://my.racknerd.com/aff.php?aff=16499"><img src="https://racknerd.com/banners/970x250.gif" alt="RackNerd Billboard Banner" width="100%" height="250"></a>
 
 ![菲律宾外教一对一网课](./online_class.png)
+![菲律宾外教一对一网课](https://img.boxmoe.com/upload/202609/6aab82e9a7e674.31037841.png)
+
